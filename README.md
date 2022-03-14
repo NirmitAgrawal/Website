@@ -1,3 +1,3 @@
 # Website
-A summarization of my work 
-A website that contains all my previous work
+ 
+A Website which contains a summarization of my previous work
